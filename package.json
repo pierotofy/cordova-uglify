@@ -12,7 +12,7 @@
   ],
   "peerDependencies" : {
     "uglify-js": "2.4.16",
-    "ng-annotate": "0.12.1",
+    "ng-annotate": "0.15.4",
     "clean-css": "3.0.10"
   },
   "author": "Ross Martin",
